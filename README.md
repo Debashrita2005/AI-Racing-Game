@@ -1,13 +1,5 @@
-
-
-🏎️** AI Racing Game**
-
-
-
-
-
-
-
+** AI Racing Game**
+Under Preview
 
 An AI-powered racing simulation game where a car learns to navigate a track automatically using Artificial Intelligence techniques. The project demonstrates how AI algorithms can be used to control agents in a game environment.
 
