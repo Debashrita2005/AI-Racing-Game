@@ -38,3 +38,4 @@ Pygame
 NumPy
 
 Machine Learning / AI Algorithms
+
